@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>opencl</string>
+		<string>cl</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>(?x)
@@ -535,7 +536,7 @@
 					<key>include</key>
 					<string>#access</string>
 				</dict>
-	
+
 				<dict>
 					<key>captures</key>
 					<dict>
